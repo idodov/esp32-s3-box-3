@@ -20,6 +20,6 @@ substitutions:
 | Idle | ![idle](https://github.com/idodov/esp32-s3-box-3/assets/19820046/8d81d5b3-0819-4188-8359-f4dc066bfdd9) |
 | Error | ![error](https://github.com/idodov/esp32-s3-box-3/assets/19820046/5040c107-df09-4c8e-a5c3-2dc43544943a) |
 | Loading | ![loading](https://github.com/idodov/esp32-s3-box-3/assets/19820046/8a9a5d1d-d5e7-43bc-b444-5a0c0360993d) |
-| Thinkgin | ![thinking](https://github.com/idodov/esp32-s3-box-3/assets/19820046/7e768172-9ff3-421a-99ff-8b6bd6965fad) |
+| Thinking | ![thinking](https://github.com/idodov/esp32-s3-box-3/assets/19820046/7e768172-9ff3-421a-99ff-8b6bd6965fad) |
 | Replying | ![replying](https://github.com/idodov/esp32-s3-box-3/assets/19820046/0556a0d7-ad36-43c9-b2fd-48e3f51c413c) |
 | Listening | ![listening](https://github.com/idodov/esp32-s3-box-3/assets/19820046/2271d242-4831-4359-ad12-9944a1e3dc76) |
