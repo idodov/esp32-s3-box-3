@@ -1,4 +1,6 @@
 # ESP32 S3 Box 3 Display for Fallout (American TV series)
+
+🎦 Demo Video - https://youtube.com/shorts/XmlBikFk2Uk
 ## Installation
 To install, add the necessary PNG lines to your `esp32-s3-box-3.yaml` file and proceed with the installation.
 ```yaml
